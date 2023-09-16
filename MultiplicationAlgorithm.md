@@ -18,6 +18,8 @@ if i have a state |0> and a state |1> multiplied it will reflect |010>
   5- Apply the Teffoli gate. The Truth Table will be as follows:
 
 <img width="748" alt="Screen Shot 2023-09-15 at 11 32 37 PM" src="https://github.com/yasmensarhan27/23-Homework1G4/assets/38404107/495c7846-d70e-4f60-91e9-25b8a5feb4fe">
+
+
   6- The third output q3 will reflect the Multiplication of q0 and q1 as shown in the table above.
 
 

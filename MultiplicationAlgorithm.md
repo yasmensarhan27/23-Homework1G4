@@ -1,14 +1,14 @@
 # Algorithm for the Multiplication using Quantum Computers:
 
-#How the Multiplication function works on Classical Computers:
-#for Classical Multiplication on Classical Computers:
+## How the Multiplication function works on Classical Computers:
+### for Classical Multiplication on Classical Computers:
 let's say I'd Multiply 2*2, first this 2 in Binary will be 1 0; hence, the multiplication of 1 0 * 1 0 = 1 0 0 which equals 4.
 
-*So for the classical multiplications on a QC:
+** So for the classical multiplications on a QC:
 if i have a state |0> and a state |1> multiplied it will reflect |010>
   |1> and a state |1> multiplied will return: |111>
   |1> and |0> = |100>
-  |0> and |0> = |000>*
+  |0> and |0> = |000> **
 
  ### The Algorithm For Mutliplication:
   1-Create 3 register: q0, q1 and q3
@@ -26,7 +26,7 @@ if i have a state |0> and a state |1> multiplied it will reflect |010>
 <img width="596" alt="Screen Shot 2023-09-15 at 11 37 00 PM" src="https://github.com/yasmensarhan27/23-Homework1G4/assets/38404107/06dc8816-5520-4da8-86ee-a3b48f3d2a16">
 
 
-##For the unit test:
+## For the unit test:
 1- 3 register q0,q1 and q3
 2- assign 0 state for q0,q1 and q3.
 3- apply Not gate to q1 to change its state to 1 instead of 0.

@@ -46,27 +46,5 @@ circuit.ccx(qreg_q[0], qreg_q[1], qreg_q[2])
 
 
 
-# Import necessary libraries
-from qiskit import QuantumRegister, ClassicalRegister, QuantumCircuit
 
-# Create a quantum register with 3 qubits named 'q'
-qreg_q = QuantumRegister(3, 'q')
 
-# Create a classical register with 1 classical bit named 'c'
-creg_c = ClassicalRegister(1, 'c')
-
-# Initialize a quantum circuit with the quantum and classical registers
-circuit = QuantumCircuit(qreg_q, creg_c)
-# Reset qubits 0, 1, and 2 to the |0⟩ state
-circuit.reset(qreg_q[0])
-circuit.reset(qreg_q[1])
-circuit.reset(qreg_q[2])
-
-# Apply a Hadamard gate to qubit 0, creating a superposition state
-circuit.h(qreg_q[0])
-
-# Apply a Hadamard gate to qubit 1, creating a superposition state
-circuit.h(qreg_q[1])
-
-# Apply a Controlled-Controlled-X (Toffoli) gate to qubits 0, 1, and 2
-circuit.ccx(qreg_q[0], qreg_q[1], qreg_q[2])

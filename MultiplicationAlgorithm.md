@@ -1,4 +1,4 @@
-##Algorithm for the Multiplication using Quantum Computers:
+# Algorithm for the Multiplication using Quantum Computers:
 
 #How the Multiplication function works on Classical Computers:
 #for Classical Multiplication on Classical Computers:

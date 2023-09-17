@@ -7,7 +7,7 @@ let's say I'd Multiply 2*2, first this 2 in Binary will be 1 0; hence, the multi
 ** So for the classical multiplications on a QC:
 if i have a state |0> and a state |1> multiplied it will reflect |010>
   |1> and a state |1> multiplied will return: |111>
-  , |1> and |0> = |100>
+  while |1> and |0> = |100>
   and |0> and |0> = |000> **
 
  ### The Algorithm For Mutliplication:

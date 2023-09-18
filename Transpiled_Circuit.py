@@ -46,7 +46,6 @@ editor
     CircuitComposer(circuit=<qiskit.circuit.quantumcircuit.QuantumCircuit object at 0x7f8b8b0d0d30>)
 
 
-![transpiled-circuit-Circuit](https://github.com/yasmensarhan27/23-Homework1G4/assets/38404107/7aff6a2e-2e2d-455f-be18-6d2bc3badd87)
 
 
 ```python

@@ -1,3 +1,5 @@
+## The original circuit implemented to perform the unit test
+
 ```python
 from ibm_quantum_widgets import CircuitComposer
 from qiskit import QuantumRegister, ClassicalRegister, QuantumCircuit
@@ -30,4 +32,5 @@ editor
 ```python
 
 ```
+![WhatsApp Image 2023-09-18 at 10 29 11 AM](https://github.com/sharmistharanit/23-Homework1G4/assets/143737948/c9732798-2ce9-4d44-a809-cd032589d799)
 

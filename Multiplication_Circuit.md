@@ -24,6 +24,7 @@ editor
 ## The Circuit On IBM Composer
 
 
+![original-circuit-2](https://github.com/ubsuny/23-Homework1G4/assets/38404107/d12fc316-2b82-4859-ab99-64e5113c176f)
 
 
 ## The Truth Table, Probabilities and results are included in another Markdown

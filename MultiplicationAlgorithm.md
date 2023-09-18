@@ -25,9 +25,6 @@ The Truth Table of Teffoli or CCX gate will be as follows:
   7- The circuit will also has one classical bit, which is used to measure the state of the third qubit at the end of the circuit.
 
 
-<img width="596" alt="Screen Shot 2023-09-15 at 11 37 00 PM" src="https://github.com/yasmensarhan27/23-Homework1G4/assets/38404107/06dc8816-5520-4da8-86ee-a3b48f3d2a16">
-
-
 ## For the unit test:
 1- 3 register q0,q1 and q3
 2- assign 0 state for q0,q1 and q3.

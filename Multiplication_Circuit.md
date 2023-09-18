@@ -1,3 +1,4 @@
+## The Code for the Original Ciruit that runs the Multiplication Function
 ```python
 from ibm_quantum_widgets import CircuitComposer
 from qiskit import QuantumRegister, ClassicalRegister, QuantumCircuit
@@ -20,9 +21,14 @@ editor = CircuitComposer(circuit=circuit)
 editor
 ```
 
+## The Circuit On IBM Composer
 
 
+![original-circuit-2](https://github.com/ubsuny/23-Homework1G4/assets/38404107/d12fc316-2b82-4859-ab99-64e5113c176f)
 
-    CircuitComposer(circuit=<qiskit.circuit.quantumcircuit.QuantumCircuit object at 0x7f36b47f5cc0>)
+
+## The Truth Table, Probabilities and results are included in another Markdown
+
+  
 
 

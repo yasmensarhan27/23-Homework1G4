@@ -1,3 +1,5 @@
+## The Code for the Transpiled Circuit:
+
 ```python
 from ibm_quantum_widgets import CircuitComposer
 from qiskit import QuantumRegister, ClassicalRegister, QuantumCircuit
@@ -40,14 +42,9 @@ editor = CircuitComposer(circuit=circuit)
 editor
 ```
 
+## The Circuit: 
+
+![transpiled-circuit-Circuit](https://github.com/ubsuny/23-Homework1G4/assets/38404107/a111d687-7669-4839-9c87-35e84350ecb9)
 
 
 
-    CircuitComposer(circuit=<qiskit.circuit.quantumcircuit.QuantumCircuit object at 0x7f8b8b0d0d30>)
-
-
-
-
-```python
-
-```
